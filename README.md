@@ -451,7 +451,7 @@ By continuing to use PulseAC, you agree that:
 * You are responsible for reviewing detections before applying automatic punishments.
 * You will not intentionally use PulseAC to cause harm to other servers, players, or systems.
 * You will comply with applicable laws and the rules of the Minecraft server software you are using.
-* PulseAC developers are not responsible for server issues, configuration mistakes, false positives, player punishments, or other consequences resulting from the use or configuration of the plugin.
+* PulseAC developers are not responsible for server issues, configuration mistakes, player punishments, or other consequences resulting from the use or configuration of the plugin.
 
 > **By downloading or using PulseAC, you agree to these Terms of Service.**
 
