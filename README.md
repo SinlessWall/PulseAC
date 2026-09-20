@@ -296,8 +296,7 @@ PulseAC is designed to support modern **Bukkit-based Minecraft server software**
 | **Folia**       | ✅ Supported    |
 | **Spigot**      | ✅ Supported    |
 | **CraftBukkit** | ✅ Supported    |
-
----
+|**Velocity**     | 🚫 Coming Soon  |
 
 # ☕ Java Requirements
 
